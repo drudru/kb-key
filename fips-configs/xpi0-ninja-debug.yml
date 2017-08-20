@@ -1,0 +1,6 @@
+---
+platform: xpi0 
+generator: Ninja
+build_tool: ninja
+build_type: Debug
+cmake-toolchain: xpi0.toolchain.cmake
